@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Reusable components Updated!",
+    "description": "Reusable components updated",
+    "link": "Reusable components",
+    "priority": "2",
+    "timeToFinish": "1",
+    "createdAt": "2022-06-08T09:45:10.560Z",
+    "status": "complete",
+    "id": "1654681510560",
+    "activationTime": "2022-06-10T08:55:40.414Z"
+  },
+  {
+    "title": "test title updated",
+    "description": "test title desc",
+    "link": "link",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createdAt": "2022-06-06T09:27:29.622Z",
+    "status": "inactive",
+    "id": "1654507649622"
+  },
+  {
+    "id": "1",
+    "title": "Learning Singleton Pattern",
+    "description": "I would like to learn Singleton in JS language, it's important for my work",
+    "link": "https://link.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "active",
+    "activationTime": "2022-06-15T08:49:00.469Z"
+  },
+  {
+    "id": "2",
+    "title": "Resource 2 updated",
+    "description": "Resource 2 Description",
+    "link": "https://link.com",
+    "priority": 2,
+    "timeToFinish": 60,
+    "status": "inactive"
+  },
+  {
+    "id": "3",
+    "title": "Resource 3",
+    "description": "Resource 3 Description",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive"
+  },
+  {
+    "title": "meaningfull title",
+    "description": "meaningful title desc",
+    "link": "some link",
+    "priority": "3",
+    "timeToFinish": "90",
+    "createdAt": "2022-06-06T09:24:50.549Z",
+    "status": "inactive",
+    "id": "1654507490549"
+  },
+  {
+    "title": "meaningfull title copy1",
+    "description": "meaningful title desc copy1",
+    "link": "some link copy",
+    "priority": "3",
+    "timeToFinish": "90",
+    "createdAt": "2022-06-06T09:24:50.549Z",
+    "status": "inactive",
+    "id": "new-resource"
+  }
+]
